@@ -46,4 +46,4 @@ Full reasoning in [methodology.md](./methodology.md).
 
 I'm a security engineer working on web application VAPT. This project reflects how I approach connecting technical findings to governance frameworks — built while preparing for a transition into GRC/security risk consulting roles.
 
-[LinkedIn] · [Email]
+www.linkedin.com/in/charan-dev · pogakucharandev@gmail.com
